@@ -1,0 +1,5 @@
+For the six supplied files:
+Successful files: 4
+Failed files: 2
+Total processed: 6
+Elapsed time is machine-dependent.

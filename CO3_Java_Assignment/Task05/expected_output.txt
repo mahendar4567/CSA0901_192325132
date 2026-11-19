@@ -1,0 +1,2 @@
+Synchronized mode: Seats sold: 10
+Race mode: timing-dependent; duplicate successful bookings may occur.

@@ -1,0 +1,7 @@
+Successful files: 4
+Failed files: 2
+Total processed: 6
+Pool size: 4
+Elapsed ns: 32103010
+FAILED score05.txt -> IllegalArgumentException: Score outside 0-100
+FAILED score04.txt -> NumberFormatException: For input string: "corrupt-score"

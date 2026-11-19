@@ -1,0 +1,5 @@
+Test ideas:
+- Enter non-numeric account or amount to test InputMismatchException.
+- Enter a negative amount to test validation.
+- Enter an amount greater than the balance to test insufficient funds.
+- Test missing card-reader.dat, then create it locally to reach withdrawal validation.

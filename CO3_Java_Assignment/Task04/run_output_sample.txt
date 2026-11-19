@@ -1,0 +1,9 @@
+Thread-0 alive: true
+Thread-1 alive: true
+Thread-2 alive: true
+Thread-3 alive: true
+Station 1 (Thread) scanned 25 scripts.
+Station 2 (Runnable) scanned 30 scripts.
+Station 3 (Thread) scanned 20 scripts.
+Station 4 (Runnable) scanned 25 scripts.
+All scanner stations completed.
